@@ -50,3 +50,7 @@ https://www.wired.com/story/google-chrome-login-privacy/
 | [Guardian](https://www.theguardian.com/commentisfree/2018/sep/25/keir-starmer-brexit-zinger-labour-conference-remain-option-peoples-vote)  | 128/4.87MB/31s | 43/2.7Mb/14s      | 43/2.7MB/17s  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 
+
+## Reference
+
+![Firefox](https://github.com/whyamp/www/blob/master/wired.gif)
