@@ -41,10 +41,10 @@ https://www.wired.com/story/google-chrome-login-privacy/
 ## Data
 
 
-| Website       | Complete page    | AMP from provider  | Google-AMP | 
+| Website       | Complete page    | AMP from website  | Google-AMP | 
 | ------------- | ------------- | -------------      | ------------- | 
 | URL           |               requests/size/time                        |
-| [[https://www.wired.com/story/google-chrome-login-privacy/]] | 60/4.05 MB/12.5s | 22/1 MB/ 1.8s       |  20/1.MB/2s  |
+| [Wired](https://www.wired.com/story/google-chrome-login-privacy/) | 60/4.05 MB/12.5s | 22/1 MB/ 1.8s       |  20/1.MB/2s  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
