@@ -22,13 +22,29 @@ uBlock Origin v1.17.0
 Privacy Badger 2018.9.20
 ```
 
+
+## Example
+
+```
+https://www.wired.com/story/google-chrome-login-privacy/
+{
+  "ampUrls": [
+    {
+      "originalUrl": "https://www.wired.com/story/google-chrome-login-privacy/",
+      "ampUrl": "https://www.wired.com/story/google-chrome-login-privacy/amp",
+      "cdnAmpUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-chrome-login-privacy/amp"
+    }
+  ]
+}
+```
+
 ## Data
 
 
 | Website       | Complete page    | AMP from provider  | Google-AMP | 
 | ------------- | ------------- | -------------      | ------------- | 
-| URL           |               requests/size                        |
-| Content Cell  | Content Cell  | Content Cell       | Content Cell  |
+| URL           |               requests/size/time                        |
+| [[https://www.wired.com/story/google-chrome-login-privacy/]] | 60/4.05 MB/12.5s | 22/1 MB/ 1.8s       |  20/1.MB/2s  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
