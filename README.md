@@ -3,11 +3,11 @@
 
 
 
-| First Header  | Second Header | First Header  | Second Header | Second Header | First Header  |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Website       | canonical     | AMP from provider  | Google-AMP | 
+| ------------- | ------------- | -------------      | ------------- | 
+| Content Cell  | Content Cell  | Content Cell       | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell       | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell       | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell       | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 
