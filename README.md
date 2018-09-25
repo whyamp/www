@@ -14,10 +14,16 @@ https://developers.google.com/amp/cache/reference/acceleratedmobilepageurl/rest/
 
 ## Conditions
 
+```
+user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
 Firefox-62.0.2
 Linux 
 uBlock Origin v1.17.0
 Privacy Badger 2018.9.20
+```
+
+## Data
+
 
 | Website       | Complete page    | AMP from provider  | Google-AMP | 
 | ------------- | ------------- | -------------      | ------------- | 
