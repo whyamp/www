@@ -12,8 +12,12 @@ https://www.alexkras.com/google-amp-is-winning/
 
 https://developers.google.com/amp/cache/reference/acceleratedmobilepageurl/rest/v1/ampUrls/batchGet
 
+## Conditions
 
-
+Firefox-62.0.2
+Linux 
+uBlock Origin v1.17.0
+Privacy Badger 2018.9.20
 
 | Website       | Complete page    | AMP from provider  | Google-AMP | 
 | ------------- | ------------- | -------------      | ------------- | 
