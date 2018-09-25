@@ -45,7 +45,7 @@ https://www.wired.com/story/google-chrome-login-privacy/
 | ------------- | ------------- | -------------      | ------------- | 
 | URL           |               requests/size/time                        |
 | [Wired](https://www.wired.com/story/google-chrome-login-privacy/) | 60/4.05 MB/12.5s | 22/1 MB/ 1.8s       |  20/1.MB/2s  |
-| Content Cell  | Content Cell  | Content Cell       | Content Cell  |
+| [web.de](https://web.de/magazine/politik/premierministerin-jacinda-ardern-neuseelands-firstbaby-feiert-premiere-un-vollversammlung-33180342#.homepage.channel2_0_Panorama.Baby%20stiehlt%20allen%20die%20Show.1)  | 42/1.2MB/2.2s  | 14/801.kB/0.9s        | 14/823.6kB/1s  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell       | Content Cell  |
